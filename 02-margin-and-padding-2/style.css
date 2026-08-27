@@ -21,8 +21,10 @@ body {
 
 button {
   background: white;
+  margin: 0 auto;
   font-size: 20px;
   padding: 12px;
+  display:block;
 }
 
 button,
